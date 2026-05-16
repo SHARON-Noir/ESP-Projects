@@ -40,7 +40,23 @@ ESP32 must send:
 ## 🐍 Python Setup
 
 ### Install Libraries
-python -m streamlit run app.py
+Python Libraries
+
+Install using:
+    pip install streamlit pyserial pandas
+
+Libraries used:
+• streamlit
+• pyserial
+• pandas
+
+---
+
+
+## 🐍 Streamlit Dashboard Setup
+
+Run the dashboard using:
+     python -m streamlit run app.py
 
 
 ---
