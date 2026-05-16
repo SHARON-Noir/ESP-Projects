@@ -18,7 +18,6 @@ This project reads **temperature and humidity using DHT11 + ESP32** and displays
 - VCC → 3.3V  
 - GND → GND  
 - DATA → GPIO21  
-- 10k resistor between VCC and DATA  
 
 ---
 
