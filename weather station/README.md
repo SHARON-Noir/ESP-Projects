@@ -32,7 +32,7 @@ This project reads **temperature and humidity using DHT11 + ESP32** and displays
 ### Output Format
 
 ESP32 must send:
- 30.00,65.00
+    30.00,65.00
 
 
 ---
